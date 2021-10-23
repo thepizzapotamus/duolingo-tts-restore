@@ -26,6 +26,6 @@ and then following these steps for Chrome
 
 A similiar process works for Edge https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/getting-started/extension-sideloading
 
-Beyond fixing tile input, which isn't likely to happen for multiple reaons, a nice feature for the future may be to add an extra playback button to hear the new voice.
+Beyond fixing tile input, which isn't likely to happen for multiple reaons, nice features for the future may be to add an extra playback button to hear the new voice and the ability to only revert specific voices(I'm looking at you Zari....) although that would probably be best as something language specific.
 
 Thanks to bImage for his extensions and duo-toolbox that provided a jumping off point for this
